@@ -1,6 +1,3 @@
-# pixelInxlsx
-用python生成xlsx像素画
-
 ## EXCEL作图步骤：
 
 1，读取图片中的RGB值，将其转化为网络色彩，最后还原为RGB值。
